@@ -1,5 +1,5 @@
 /**
- * @name ClearVision (Edited)
+ * @name ClearVision
  * @author BeefImWald
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -13,13 +13,14 @@
 @import url('https://fonts.googleapis.com/css2?family=monospace:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
-  --main-color: #ABABAB;
-  --hover-color: #797979;
+  --main-color: #474747;
+  --hover-color: #303030;
   --success-color: #239B65;
   --danger-color: #982929;
-  --url-color: var(--main-color);
+  --url-color: #7C7C7C;
   --undefined: 0;
   --background-image: url('https://i.imgur.com/avPDLcs.jpg');
   --background-shading: 100%;
@@ -34,7 +35,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://i.imgur.com/avPDLcs.jpg');
+  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -45,7 +46,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://i.imgur.com/avPDLcs.jpg');
+  --user-modal-image: url('https://i.imgur.com/HT8UyCY.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -55,10 +56,10 @@
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 15px;
+  --user-modal-blur: 2px;
   --home-icon: url('https://i.imgur.com/5BwANC4.png');
   --home-position: center;
-  --home-size: 100%;
+  --home-size: 40px;
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
