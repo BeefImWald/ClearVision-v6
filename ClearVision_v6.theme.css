@@ -16,7 +16,7 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
-  --main-color: rgba(120, 120, 120, 0.7)
+  --main-color: rgba(120, 120, 120, 0.7);
   --hover-color: #303030;
   --success-color: #239B65;
   --danger-color: #982929;
