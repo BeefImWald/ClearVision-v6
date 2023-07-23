@@ -16,7 +16,7 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
-  --main-color: #474747;
+  --main-color: rgba(166, 166, 166, 0.5)
   --hover-color: #303030;
   --success-color: #239B65;
   --danger-color: #982929;
@@ -59,7 +59,7 @@
   --user-modal-blur: 2px;
   --home-icon: url('https://i.imgur.com/5BwANC4.png');
   --home-position: center;
-  --home-size: 40px;
+  --home-size: 100%;
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
